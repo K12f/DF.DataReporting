@@ -9,6 +9,9 @@
   - 5.下载[Rider](https://www.jetbrains.com/rider/),导入代码启动Program.cs
   - 6.数据将存入MongoDB中的collection名item_price_v2
 
+## web端仓库
+https://github.com/K12f/DF.Reporting.Web
+
 ## 依赖
 - .net8.0
 - MongoDB
